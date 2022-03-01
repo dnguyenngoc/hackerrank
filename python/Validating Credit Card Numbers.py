@@ -1,3 +1,6 @@
+# https://www.hackerrank.com/challenges/validating-credit-card-number/problem?h_r=profile
+# sorry if code not clean. I don't have time to fix this code
+
 import re
 
 
